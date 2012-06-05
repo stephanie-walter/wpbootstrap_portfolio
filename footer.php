@@ -34,7 +34,7 @@
 		?>
 	
 			<div style="float: right">		
-					<a href="http://wpbootstrap.iubenda.com/">Bootstrap for Wordpress</a> is a theme based on the <a href="http://twitter.github.com/bootstrap/">Twitter Bootstrap toolkit</a>
+					Hebergement gracieusement fourni par<a href="http://bonjour.pandaroux.net/"> Bonjour Pandaroux ! </a>
 					- 
 					<a href="http://wordpress.org/" title="Semantic Personal Publishing Platform" rel="generator">Proudly powered by WordPress </a>
 			</div>
